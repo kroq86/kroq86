@@ -1,5 +1,5 @@
 ### Hi there 👋 
-My name is Kirill and I'm developer, TeamLead/PM and also i trying write books
+My name is Kirill and I'm developer, TeamLead/PM and also i'm trying write books
 
 - 🛠 11 years of development
 - 💬 Ask me about Python, TypeScript, Golang
