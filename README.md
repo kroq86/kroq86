@@ -2,7 +2,7 @@
 My name is Kirill and I'm developer
 
 - 🛠 11 years of development
-- 💬 Ask me about Python, TypeScript, Go, Fasm, CLojure
+- 💬 Ask me about Python, TypeScript, Go, Fasm, Clojure
 - 📫 How to reach me: djkroq@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kroq86&hide=html&layout=compact)](https://github.com/kroq86)
